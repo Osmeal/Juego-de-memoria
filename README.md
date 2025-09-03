@@ -13,3 +13,8 @@ Proyecto en Java (realizado con Swing) que implementa un juego de memoria de enc
 ## 🛠️ Requisitos
 - Java 8 o superior
 - Eclipse (opcional, si se quiere importar el proyecto)
+
+## ▶️ Ejecución
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/TU_USUARIO/TU_REPO.git
