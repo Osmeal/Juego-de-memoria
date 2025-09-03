@@ -18,3 +18,6 @@ Proyecto en Java (realizado con Swing) que implementa un juego de memoria de enc
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/TU_USUARIO/TU_REPO.git
+2. Ejecuta el .jar
+   ```bash
+   java -jar JuegoParejas.jar
